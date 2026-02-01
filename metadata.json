@@ -1,0 +1,5 @@
+{
+  "name": "BioTutor - Physiologie Humaine",
+  "description": "Un tuteur interactif pour apprendre la physiologie humaine niveau lycée, propulsé par Gemini.",
+  "requestFramePermissions": []
+}
